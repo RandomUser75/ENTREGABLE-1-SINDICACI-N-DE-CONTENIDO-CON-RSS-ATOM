@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+<channel>
+
+	<title>Noticias de videojuegos</title>
+	<link>https://github.com</link>
+	<description>Será el canal de noticias videojuegos</description>
+	<language>es</language>
+	<item>
+	
+		<title>Doom 64 se retrasa</title>
+		<link>https://github.com</link>
+		<description>El juego pensado en lanzarse en 1980 ha sufrido un retraso</description>
+	
+	</item>
+	<item>
+	
+		<title>Torneo de valorant</title>
+		<link>https://github.com</link>
+		<description>Se organiza un torneo de valorant</description>
+	
+	</item>
+	<item>
+	
+		<title>Fortnite bate record de jugadores</title>
+		<link>https://github.com</link>
+		<description>Se lia parda</description>
+	
+	</item>
+	<item>
+	
+		<title>Explotan las oficinas de Blizzard</title>
+		<link>https://github.com</link>
+		<description>Se organiza un torneo de valorant</description>
+	
+	</item>
+
+</channel>
+</rss>
